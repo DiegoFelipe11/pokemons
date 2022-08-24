@@ -34,5 +34,3 @@ const App = () => {
 };
 
 export default App;
-/*   <Route path="/Pokemon" element={<CardPokemon />} />
- */
